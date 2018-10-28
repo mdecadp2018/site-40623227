@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623227/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623227/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623227/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623227/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623227/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623227/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623227/blog/</id><updated>2018-10-22T00:00:00+08:00</updated><entry><title>Week7</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-10-22T00:00:00+08:00</published><updated>2018-10-22T00:00:00+08:00</updated><author><name>40623227</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623227/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;github在維護作業該怎麼辦&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;github在維護作業該怎麼辦&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;因為這週 github 可能在維護，所以今天講解了該如何建立一個虛擬主機以及示範。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week6</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-10-15T00:00:00+08:00</published><updated>2018-10-15T00:00:00+08:00</updated><author><name>40623227</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623227/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;編輯與維護投影片&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;編輯與維護投影片&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;講解了如果網頁被弄亂了該如何拯救，將自己的原來的(flaskapp.py檔案)更新成最新的版次&lt;/p&gt;
+&lt;p&gt;繼續練習onshape&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-10-08T00:00:00+08:00</published><updated>2018-10-08T00:00:00+08:00</updated><author><name>40623227</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623227/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;練習 onshape 2-1&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;練習 onshape 2-1&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;學習要點
+1.簡介"設計意圖" (design intent)
+2.設定尺寸 (dimensions) 與約束 (constraints)
+3.自動推理 (automatic inferencing)
+4.繪製精確的零件 (accurate part)
+5.草圖繪製練習
+6.運用與建立平面 (planes)
+7.建立圓角 (fillets) 與倒角 (chamfers)
+8.使用多個 (multiple) 草圖區域 (sketch regions)
+9.基本零件
+10.繪製時鐘模型 - 用於設計意圖教學
+11.各種簡單的幾何形狀 (geometric shapes)&lt;/p&gt;
+&lt;p&gt;onspare習題2-1影片連結(https://www.youtube.com/watch?v=FfXtmPNmL_4&amp;amp;list=PL_8ucuq5uol6ONPIokG76F6rrmZXPCEHq) &lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-01T00:00:00+08:00</published><updated>2018-10-01T00:00:00+08:00</updated><author><name>40623227</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623227/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;練習 onshape 1-1&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;練習 onshape 1-1&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;學習要點
+1.建立 Onshape 帳號 - 請利用學校 gmail 
+2.建立教育版帳號3D 環境導航 (navigate)
+3.說明基於草圖 (sketch-based)的建模
+4.介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，  掃描(sweep)，和斷面混成(loaf)）
+5.從 2D 過渡到 3D
+6.介紹基本草圖
+7.附錄A：鍵盤快捷鍵 (keyboard shotcuts)，滑鼠和觸控平面手勢 (touchpad gestures)，檢視工具
+8.附錄B：導航說明檔，建立帳號，訂閱計劃 (subscription plans)
+9.圓柱薄殼 (cylinder shell) - 繪圖界面與可視化/檢視的介紹
+10.針對既有草圖的模型 - 接續建立特徵
+11.現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)&lt;/p&gt;
+&lt;p&gt;onspare習題1-1影片連結(https://www.youtube.com/watch?v=z5b1YRdd8-U&amp;amp;list=PL_8ucuq5uol5BG7XT8WWCN9oTQFJXssye)&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-09-24T00:00:00+08:00</published><updated>2018-09-24T00:00:00+08:00</updated><author><name>40623227</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623227/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;中秋節放假!!&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;中秋節放假!!&lt;/p&gt;
+
+
+&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>Week2</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-16T00:00:00+08:00</published><updated>2018-09-16T00:00:00+08:00</updated><author><name>40623227</name></author><id>tag:mdecadp2018.github.io,2018-09-16:/site-40623227/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;簡單講解ShareX和領取個人作業倉儲&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;簡單講解ShareX和領取個人作業倉儲&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;ShareX : 1.Ctrl+PrtSCR(截圖)
+              2.Shift+PrtSCR(開始錄製)再點Shift+PrtSCR(結束錄製)&lt;/p&gt;
+&lt;p&gt;並在自己的個人倉儲中的setting裡的branches中將自己的分支改為gh-pages              &lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623227/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -11,16 +67,12 @@
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week1</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-10T00:00:00+08:00</published><updated>2018-09-10T00:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623227/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623227/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-10T00:00:00+08:00</published><updated>2018-09-10T00:00:00+08:00</updated><author><name>40623227</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623227/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;課程導入週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;課程導入週&lt;/p&gt;
 
 
-&lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
-&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
-&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
-&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
-&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
-&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
-&lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;1.建立一個屬於自己的倉儲&lt;/p&gt;
+&lt;p&gt;2.講解onshap是可以把設計的權力下放給每個使用者，而不只是特定的設計工程師，也可以讓AutoCAD 、Inventor、SolidWork等等的繪圖軟體匯入。&lt;/p&gt;
+&lt;p&gt;3.然後學到python wsgi.py指令才能進入近端(https://localhost:8443)
+，對自己的網誌進行修改&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
