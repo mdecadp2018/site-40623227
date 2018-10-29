@@ -24,10 +24,34 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181029110157.1" a="E"><vh>20180910</vh>
+<v t="leo.20181029110157.2"><vh>W1</vh></v>
+</v>
+<v t="leo.20181029110233.1" a="E"><vh>20180916</vh>
+<v t="leo.20181029110233.2"><vh>W2</vh></v>
+</v>
+<v t="leo.20181029110237.1" a="E"><vh>20180924</vh>
+<v t="leo.20181029110237.2"><vh>W3</vh></v>
+</v>
+<v t="leo.20181029110241.1" a="E"><vh>20181001</vh>
+<v t="leo.20181029110241.2"><vh>W4</vh></v>
+</v>
+<v t="leo.20181029110245.1" a="E"><vh>20181008</vh>
+<v t="leo.20181029110245.2"><vh>W5</vh></v>
+</v>
+<v t="leo.20181029110247.1" a="E"><vh>20181015</vh>
+<v t="leo.20181029110247.2"><vh>W6</vh></v>
+</v>
+<v t="leo.20181029110250.1" a="E"><vh>20181022</vh>
+<v t="leo.20181029110250.2"><vh>W7</vh></v>
+</v>
+<v t="leo.20181029110433.1" a="E"><vh>20181029</vh>
+<v t="leo.20181029110433.2"><vh>W8</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -132,7 +156,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 40623227 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -325,6 +349,116 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181029110157.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029110157.2"># W1
+
+* 講解onshape的基本概念
+* 本學期上課內容
+* 並告訴我們有網路的狀態下是要共同協同的，沒網路的話自己要獨立作業
+
+</t>
+<t tx="leo.20181029110233.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029110233.2"># W2
+
+* 簡單講解ShareX
+* 如何領取個人作業倉儲
+</t>
+<t tx="leo.20181029110237.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029110237.2"># W3
+
+* 中秋節放假!!
+</t>
+<t tx="leo.20181029110241.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029110241.2"># W4
+
+*練習onshape 1-1習題
+*[onspare習題1-1影片連結](https://www.youtube.com/watch?v=z5b1YRdd8-U&amp;list=PL_8ucuq5uol5BG7XT8WWCN9oTQFJXssye)</t>
+<t tx="leo.20181029110245.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029110245.2"># W5
+
+*練習onshape習題 2-2
+*[onspare習題2-1影片連結](https://www.youtube.com/watch?v=FfXtmPNmL_4&amp;list=PL_8ucuq5uol6ONPIokG76F6rrmZXPCEHq)
+</t>
+<t tx="leo.20181029110247.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029110247.2"># W6
+
+* 如何編輯與維護投影片
+</t>
+<t tx="leo.20181029110250.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029110250.2"># W7
+
+* 如何建立一個虛擬倉儲
+</t>
+<t tx="leo.20181029110433.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029110433.2"># W8
+
+* 講解第10周分組所需要面臨的程式，以及可能之後 所運用各個程式所遇到的問題
+
 </t>
 </tnodes>
 </leo_file>
